@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/hong/avos/jenkins/workspace/avoscloud-Android-sdk-release/avoscloud-push/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">ACTIVITY_ENTRY_NAME</string>
+</resources>

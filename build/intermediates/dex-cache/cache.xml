@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/mawenjing/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpmime/4.2.4/dba4d4d224e2ca872af5be8d2992777583145478/httpmime-4.2.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dba4d4d224e2ca872af5be8d2992777583145478">
+        <dex dex="/Users/mawenjing/Projects/AndroidSubscribe_import/app/build/intermediates/pre-dexed/debug/httpmime-4.2.4-359437350b1d0996d6980e4e70fb72f20d8525cf.jar" />
+    </item>
+    <item
+        jar="/Users/mawenjing/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.2.4/3b7f38df6de5dd8b500e602ae8c2dd5ee446f883/httpcore-4.2.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3b7f38df6de5dd8b500e602ae8c2dd5ee446f883">
+        <dex dex="/Users/mawenjing/Projects/AndroidSubscribe_import/app/build/intermediates/pre-dexed/debug/httpcore-4.2.4-3aafc0eacc50ab5c98cab886e5b230f2172439c3.jar" />
+    </item>
+    <item
+        jar="/Users/mawenjing/Projects/AndroidSubscribe_import/app/build/intermediates/exploded-aar/cn.leancloud.android/avoscloud-sns/v2.7/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="bbf0d3142e369e4dbf0f4853b605660726b3f24f">
+        <dex dex="/Users/mawenjing/Projects/AndroidSubscribe_import/app/build/intermediates/pre-dexed/debug/classes-1307fb6bfe347359a7b3ce8ee41aeb3dffc1c49d.jar" />
+    </item>
+    <item
+        jar="/Users/mawenjing/Projects/AndroidSubscribe_import/app/build/intermediates/exploded-aar/cn.leancloud.android/avoscloud-push/v2.7/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="65a645378740b57ee4d68c32be07eb6359f12e7c">
+        <dex dex="/Users/mawenjing/Projects/AndroidSubscribe_import/app/build/intermediates/pre-dexed/debug/classes-97775936ffc53beb7f006236ac567eeefadffe98.jar" />
+    </item>
+    <item
+        jar="/Users/mawenjing/.gradle/caches/modules-2/files-2.1/cn.leancloud.android/Java-WebSocket/1.2.0-leancloud/221fb6750fcf164a85a98bbbafe0879e18868562/Java-WebSocket-1.2.0-leancloud.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="221fb6750fcf164a85a98bbbafe0879e18868562">
+        <dex dex="/Users/mawenjing/Projects/AndroidSubscribe_import/app/build/intermediates/pre-dexed/debug/Java-WebSocket-1.2.0-leancloud-02ec52479806846d35ddb3a1d918c445389a07f8.jar" />
+    </item>
+    <item
+        jar="/Users/mawenjing/.gradle/caches/modules-2/files-2.1/cn.leancloud.android/fastjson/1.1.37-leancloud/f0eb5dd7cf5d5e186a49179c2e956e5a34c71956/fastjson-1.1.37-leancloud.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f0eb5dd7cf5d5e186a49179c2e956e5a34c71956">
+        <dex dex="/Users/mawenjing/Projects/AndroidSubscribe_import/app/build/intermediates/pre-dexed/debug/fastjson-1.1.37-leancloud-b6094cd24233ad3e8a03aad455caa25c8abe26b0.jar" />
+    </item>
+    <item
+        jar="/Users/mawenjing/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/mawenjing/Projects/AndroidSubscribe_import/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-765dcecff3a014da4d43075858578248e19747e6.jar" />
+    </item>
+    <item
+        jar="/Users/mawenjing/Projects/AndroidSubscribe_import/app/build/intermediates/exploded-aar/cn.leancloud.android/avoscloud-statistics/v2.7/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d4dcc9b8d9207ff21d1649f11eb3575695d53c9f">
+        <dex dex="/Users/mawenjing/Projects/AndroidSubscribe_import/app/build/intermediates/pre-dexed/debug/classes-f1b4d38cb63f60b8f70f473fa201a88f6dcd0fb3.jar" />
+    </item>
+    <item
+        jar="/Users/mawenjing/Projects/AndroidSubscribe_import/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/mawenjing/Projects/AndroidSubscribe_import/app/build/intermediates/pre-dexed/debug/classes-a2fa033775d09a61677a96041970fe5fa1137f22.jar" />
+    </item>
+    <item
+        jar="/Users/mawenjing/.gradle/caches/modules-2/files-2.1/cn.leancloud.android/qq-sdk/1.6.1-leancloud/896145203364b9e1d055cb81ac127bab139ad91d/qq-sdk-1.6.1-leancloud.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="896145203364b9e1d055cb81ac127bab139ad91d">
+        <dex dex="/Users/mawenjing/Projects/AndroidSubscribe_import/app/build/intermediates/pre-dexed/debug/qq-sdk-1.6.1-leancloud-ffbe04570977839c7da062032eba55cfe8a9c79e.jar" />
+    </item>
+    <item
+        jar="/Users/mawenjing/.gradle/caches/modules-2/files-2.1/cn.leancloud.android/avoscloud-sdk/v2.7/7a8a5fc433d3d0817e8f461ef1953e84c5b5c32e/avoscloud-sdk-v2.7.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7a8a5fc433d3d0817e8f461ef1953e84c5b5c32e">
+        <dex dex="/Users/mawenjing/Projects/AndroidSubscribe_import/app/build/intermediates/pre-dexed/debug/avoscloud-sdk-v2.7-3df6744ee4ca241acf51bc1c89d9882cddf0e1c8.jar" />
+    </item>
+    <item
+        jar="/Users/mawenjing/.gradle/caches/modules-2/files-2.1/cn.leancloud.android/weibo-sdk-android-sso/1.0.0-leancloud/e81daa09ae0ba8614ac736487b55fe3bb7679b87/weibo-sdk-android-sso-1.0.0-leancloud.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e81daa09ae0ba8614ac736487b55fe3bb7679b87">
+        <dex dex="/Users/mawenjing/Projects/AndroidSubscribe_import/app/build/intermediates/pre-dexed/debug/weibo-sdk-android-sso-1.0.0-leancloud-d52b2c6e8696144dc97f8e8f5e8439d61f470179.jar" />
+    </item>
+    <item
+        jar="/Users/mawenjing/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.6/a845a88238be0b5be9d238652c1bc0605ef91f52/android-async-http-1.4.6.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a845a88238be0b5be9d238652c1bc0605ef91f52">
+        <dex dex="/Users/mawenjing/Projects/AndroidSubscribe_import/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.6-c2199428e196493d840163b4ef0f00a80a53c460.jar" />
+    </item>
+    <item
+        jar="/Users/mawenjing/Projects/AndroidSubscribe_import/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/mawenjing/Projects/AndroidSubscribe_import/app/build/intermediates/pre-dexed/debug/classes-bc823ae05b69a795b2c1e9d86aee37a390aa0f0a.jar" />
+    </item>
+    <item
+        jar="/Users/mawenjing/Projects/AndroidSubscribe_import/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/mawenjing/Projects/AndroidSubscribe_import/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-64599f94801b894c42053958a9ae587922cdc0a1.jar" />
+    </item>
+    <item
+        jar="/Users/mawenjing/Projects/AndroidSubscribe_import/app/build/intermediates/exploded-aar/cn.leancloud.android/avoscloud-feedback/v2.7/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="176331fc1b28a6e5c129b9e1a45541b1ae32b63f">
+        <dex dex="/Users/mawenjing/Projects/AndroidSubscribe_import/app/build/intermediates/pre-dexed/debug/classes-8f66d532932339bc23381e7162ab1dc0ecf106d4.jar" />
+    </item>
+    <item
+        jar="/Users/mawenjing/Projects/AndroidSubscribe_import/app/build/intermediates/exploded-aar/cn.leancloud.android/avoscloud-search/v2.7/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0abec8184b156d65f2ace300ebe3f36486c5a1a0">
+        <dex dex="/Users/mawenjing/Projects/AndroidSubscribe_import/app/build/intermediates/pre-dexed/debug/classes-1b8d5a0a990736ca011bf4f688dc476d94b8d5d2.jar" />
+    </item>
+
+</items>
